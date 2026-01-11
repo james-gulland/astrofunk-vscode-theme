@@ -1,13 +1,36 @@
 {
   "name": "astrofunk-dark-theme",
   "displayName": "Astrofunk Dark",
-  "description": "A dark theme with funky colors for VSCode.",
+  "description": "Astrofunk is a minimal dark theme for VSCode, inspired by retro-futurism and deep-space neon aesthetics.",
+  "publisher": "JamesGulland",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/james-gulland/astrofunk-vscode-theme"
+  },
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.107.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "astrofunk theme",
+    "astrofunk dark theme",
+    "astrofunk vscode theme",
+    "minimal theme",
+    "modern theme",
+    "retro-futurism theme",
+    "neon theme",
+    "deep-space theme",
+    "vscode theme",
+    "visual studio code theme",
+    "vscode dark theme",
+    "visual studio code dark theme",
+    "James Gulland",
+    "JamesGulland"
   ],
   "contributes": {
     "themes": [
@@ -17,5 +40,6 @@
         "path": "./themes/astrofunk-dark-theme-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "astrofunk-icon.png"
 }

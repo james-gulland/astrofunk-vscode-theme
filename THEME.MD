@@ -1,9 +1,10 @@
-/* CSS HEX */
---graphite: #333333
---gunmetal: #404040;
---dusty-mauve: #8d829c;
---lilac: #b48ead;
---steel-blue: #81a1c1;
---sky-blue-light: #87ceeb;
---muted-teal: #8fbcbb;
---alice-blue: #d9e2ec;
+--shadow-grey: #272635;
+--twilight-indigo: #3b405e;
+--periwinkle: #b9c2e0;
+--baby-blue-ice: #8cb3fd;
+--pink-orchid: #f6c1e7;
+--cream: #ffffb7;
+--apricot-cream: #ffca85;
+--pearl-aqua: #93e2d4;
+--ash-grey: #a4cac5;
+--alice-blue: #ecf5ff;
