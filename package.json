@@ -1,0 +1,21 @@
+{
+  "name": "astrofunk-dark-theme",
+  "displayName": "Astrofunk Dark",
+  "description": "A dark theme with funky colors for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Astrofunk Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/astrofunk-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
