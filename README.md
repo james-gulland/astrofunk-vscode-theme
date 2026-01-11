@@ -4,8 +4,8 @@
 
 astrofunk is a dreamy, high-contrast dark theme inspired by retro-futurism and deep-space neon.
 
+<img src="https://raw.githubusercontent.com/james-gulland/astrofunk-vscode-theme/main/astrofunk-screenshot.png" />
 <img src="https://raw.githubusercontent.com/james-gulland/astrofunk-vscode-theme/main/colour-wheel.png" />
-<img src="https://raw.githubusercontent.com/james-gulland/solar-storm-vscode-theme/main/astrofunk-screenshot.png" />
 
 <br />
 <br />
