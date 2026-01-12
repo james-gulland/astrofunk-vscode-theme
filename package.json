@@ -8,7 +8,7 @@
     "url": "https://github.com/james-gulland/astrofunk-vscode-theme"
   },
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.107.0"
   },
